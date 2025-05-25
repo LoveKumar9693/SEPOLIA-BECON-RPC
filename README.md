@@ -4,8 +4,34 @@
 ## Hardware Requirements
 
 ### OS: Ubuntu 20.04 or later
-### RAM: -16 GB	| CPU	84-6 cores | Disk 3000 Gb+ 
+### RAM: -16 GB	| CPU	84-6 cores | Disk 2000 Gb+ 
 ---
+
+# 🛑 create Instances first 🛑
+
+#  🛑THENE CREATE FIREWALL RULE🛑
+----
+# 🛑 FOLLOW VIDEO🛑
+# Name:- 
+```
+sepolia-node-firewalL
+```
+# Targets: Apply to all instances in the network (or select specific targets). 
+
+# Source IP Ranges:-
+```
+0.0.0.0/0
+```
+# TCP:- 
+```
+22, 8545, 8546, 8551, 3500, 4000, 30303
+```
+# UDP:-
+
+```
+30303
+```
+
 
 ## Set Root first
 ```
