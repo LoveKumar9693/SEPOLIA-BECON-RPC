@@ -14,7 +14,7 @@
 # 🛑 FOLLOW VIDEO🛑
 # Name:- 
 ```
-sepolia-node-firewalL
+sepolia-node-firewall
 ```
 # Targets: Apply to all instances in the network (or select specific targets). 
 
