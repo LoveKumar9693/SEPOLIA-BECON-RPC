@@ -242,6 +242,19 @@ curl http://localhost:3500/eth/v1/node/syncing
 {"data":{"head_slot":"12345","sync_distance":"0","is_syncing":false}}
 ```
 
+
+# YOUR RPC 
+
+# SEPOLIA RPC :- 
+```
+http://<your-vps-ip>:8545
+```
+
+# BECON RPC :-
+```
+http://<your-vps-ip>:3500
+```
+
 # AFTER CREATE RPC THENE HOW TO WHITLIST 
 ```
 sudo ufw allow from YOUR VPS IP to any port 8545 proto tcp
